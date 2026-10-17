@@ -1,4 +1,4 @@
-# 1st problem - sum of array
+# 1st problem - sum of array elements
 
 def sumofArray(a):
     sum = 0
